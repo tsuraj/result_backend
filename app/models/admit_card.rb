@@ -1,0 +1,2 @@
+class AdmitCard < ApplicationRecord
+end
